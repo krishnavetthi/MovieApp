@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MovieApp/static/css/main.8148b29a.css",
+    "main.js": "/MovieApp/static/js/main.7458eee3.js",
+    "static/js/453.0b30a3d5.chunk.js": "/MovieApp/static/js/453.0b30a3d5.chunk.js",
+    "static/media/jeremy-yap-J39X2xX_8CQ-unsplash.jpg": "/MovieApp/static/media/jeremy-yap-J39X2xX_8CQ-unsplash.3a513b8e0952ee05dc78.jpg",
+    "index.html": "/MovieApp/index.html",
+    "main.8148b29a.css.map": "/MovieApp/static/css/main.8148b29a.css.map",
+    "main.7458eee3.js.map": "/MovieApp/static/js/main.7458eee3.js.map",
+    "453.0b30a3d5.chunk.js.map": "/MovieApp/static/js/453.0b30a3d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8148b29a.css",
+    "static/js/main.7458eee3.js"
+  ]
+}
