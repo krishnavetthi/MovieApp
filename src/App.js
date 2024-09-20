@@ -19,7 +19,7 @@ function App() {
     setDetails(null);
     setError('');
     const fetchData = await fetch(
-      `http://www.omdbapi.com/?t=${movievalue}&apikey=3313609d`);
+      `https://www.omdbapi.com/?t=${movievalue}&apikey=3313609d`);
 
     const data = await fetchData.json();
     console.log(data);
