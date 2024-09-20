@@ -1,0 +1,69 @@
+body {
+  margin-right:100px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-height: 100vh;
+  background-image:url("../public/jeremy-yap-J39X2xX_8CQ-unsplash.jpg");
+  background-color: #1a1a1a;
+  background-position:center;
+  background-size:140ch;
+  background-repeat: no-repeat;
+  font-weight: 600;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.align{
+  text-align: right;
+  margin-top:100px;
+}
+
+h1{
+  color: rgb(240, 215, 215);
+}
+
+h2{
+  color:#cbc5bd;
+  margin-top: 20px;;
+  margin-bottom:20px;
+}
+
+h3{
+  color: rgb(72, 67, 67);
+  
+}
+
+.inputbox{
+  border-radius: 1.5rem;
+  height:30px;
+  width:220px;
+  color: #1a1a1a;
+}
+
+.col{
+  color:#a99f98
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  margin-right: 90px;
+  background-color: aliceblue;
+  
+  cursor: pointer;
+  color: #2d2c2b;
+}
+button:hover {
+  border-color: #646cff;
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
